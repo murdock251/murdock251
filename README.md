@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Noor Mostofa Nafis
-
 <h1 align="center">Hi 👋, I'm Noor Mostofa Nafis</h1>
 <h3 align="center">A Passionate CSE Student and Developer</h3>
 
