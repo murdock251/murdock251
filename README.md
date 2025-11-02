@@ -1,34 +1,34 @@
-## Hi there 👋
-
-<!--
-**murdock251/murdock251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Noor Mostofa Nafis
 
-🎓 Computer Science student at North South University <br>
-💻 Passionate about Java,Competitive Programming and Backend Development <br>
-📚 Currently learning: JavaFX, Git, and Data Structures  
+<h1 align="center">Hi 👋, I'm Noor Mostofa Nafis</h1>
+<h3 align="center">A Passionate CSE Student and Developer</h3>
+
+- 🎓 Computer Science student at North South University <br>
+- 💻 Passionate about Java,Competitive Programming and Backend Development <br>
+- 🌱 I’m currently learning **JavaFX, Data Structures, and Full-Stack Development**  
+- 💬 Ask me about **C, C++, Java**  
+- 📫 How to reach me **noor.mostofa251@gmail.com**
 
 ---
 
-### 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [GitHub](https://github.com/noormostofa)
-- [Email](mailto:your.email@example.com)
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
+
+### 📊 GitHub Stats
+![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=noormostofa&show_icons=true&theme=tokyonight)
+
 
 
 
