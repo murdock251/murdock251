@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Noor Mostofa Nafis
 
-🎓 Computer Science student at North South University  
+🎓 Computer Science student at North South University
+💻 Passionate about C, C++, Java, and full-stack development
 📚 Currently learning: JavaFX, Git, and Data Structures  
 
 ---
