@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Noor Mostofa
+
+🎓 Computer Science student at North South University 
+💻 Passionate about C, C++, Java, and full-stack development  
+📚 Currently learning: JavaFX, Git, and Data Structures  
+
+---
+
+### 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [GitHub](https://github.com/noormostofa)
+- [Email](mailto:your.email@example.com)
+
+---
+
+
+
