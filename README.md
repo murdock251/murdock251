@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Noor Mostofa
+# 👋 Hi, I'm Noor Mostofa Nafis
 
 🎓 Computer Science student at North South University 
 💻 Passionate about C, C++, Java, and full-stack development  
